@@ -108,3 +108,14 @@ http://localhost:5174/
 
 
 Note: The port may differ (Vite might pick 5173, 5174, etc.). Use the URL shown in the terminal.
+
+
+What I Learned / Challenges
+
+Initially opening index.html directly didn’t work → needed Vite server
+
+Figuring out correct folder structure
+
+Connecting components and passing props correctly
+
+Making input a controlled component
